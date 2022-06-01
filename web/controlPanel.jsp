@@ -82,7 +82,7 @@
         <c:when test ="${function == 'Statistic'}">
             <form action="admin" method ="get">
                 <label>Order by:</label><br>
-                <input type ="radio" name ="action" value ="post date" checked>Post Date<br>
+                <input type ="radio" name ="action" value ="post date">Post Date<br>
                 <input type ="radio" name ="action" value ="last edit" >Last Edit<br>
                 <input type ="radio" name ="action" value ="title" >Title<br>
                 <input type ="radio" name ="action" value ="author" >Author<br>

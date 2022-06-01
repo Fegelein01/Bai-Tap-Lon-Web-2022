@@ -55,10 +55,10 @@ public class BlogDAO extends DAO {
         String sql = "SELECT * FROM tblposttest order by ";
         switch (s) {
             case "title":
-                sql = sql + "title desc";
+                sql = sql + "title";
                 break;
             case "Author":
-                sql = sql + "author desc";
+                sql = sql + "author";
                 break;
             case "post date":
                 sql = sql + "postdate desc";

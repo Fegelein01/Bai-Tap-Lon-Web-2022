@@ -1,0 +1,103 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 31, 2022, 8:00:48 PM
+    Author     : Admin
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+
+label {
+    float: left;
+    width: 12em;
+    margin-bottom: 0.5em;
+}
+
+
+
+br {
+    clear: both;
+}
+#submit {
+    margin-left: 0.5em;
+}
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align:right;
+}
+
+#title{
+    font-size: 25px;
+}
+
+#footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    font-size: 15px;
+    text-align: center;
+}
+
+#posts{
+    text-align: left;
+    margin-left: 80px;
+}
+
+#search{
+    text-align: right;
+}
+
+#ita{
+    font-weight: bold;
+    font-size: 15pt;
+}
+
+#vote{
+    text-align: right;
+}
+
+#comment{
+    text-align: left;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+#reply{
+    text-align: left;
+    margin-left: 5em;
+    margin-right: 5em;
+    border-left: 3px solid #f1f1f1;
+    border-left-color: red;
+}
+
+#para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+    margin-left: 2em;
+    margin-right: 2em;
+    word-wrap: break-word
+}
+
+#comment2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+    margin-top: 0.5em;
+    border: 3px solid #f1f1f1;
+}
+
+.mytext {
+    width: 300px;
+}
